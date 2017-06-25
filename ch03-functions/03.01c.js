@@ -62,3 +62,5 @@ console.log(power(2, 10)); // <-- 1024
 // }));
 //
 // // console.log(twoAsynchronousInputs);
+
+// A later chapter covering asynchronicity: http://eloquentjavascript.net/20_node.html#h_HH3wvnWMnd
