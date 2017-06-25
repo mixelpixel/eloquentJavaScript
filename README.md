@@ -29,6 +29,7 @@
 	- [03.06a.js](ch03-functions/03.06a.js)
 	- [03.06b.js](ch03-functions/03.06b.js)
 07. Optional Arguments
+	- [03.07.js](ch03-functions/03.07.js)
 08. Closure
 09. Recursion
 10. Growing Functions
@@ -66,3 +67,14 @@
 -C.A.R. Hoare, 1980 ACM Turing Award Lecture
 
 01.
+
+## [Chapter 20](http://eloquentjavascript.net/20_node.html) - Node.js
+01. Background
+02. Asynchronicity
+	- http://eloquentjavascript.net/20_node.html#h_HH3wvnWMnd
+
+***
+# Additional reading
+## Memory management
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+- https://www.ibm.com/developerworks/web/library/wa-memleak/
