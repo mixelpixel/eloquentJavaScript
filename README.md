@@ -41,6 +41,7 @@
 
 	- [03.10a.js](ch03-functions/03.10a.js)
 	- [03.10b.js](ch03-functions/03.10b.js)
+	- [03.10c.js](ch03-functions/03.10c.js)
 11. Functions and Side Effects
 12. Summary
 13. Exercises
