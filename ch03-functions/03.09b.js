@@ -14,4 +14,6 @@ function findSolution(target) {
 }
 
 console.log(findSolution(24)); // <--- (((1 * 3) + 5) * 3)
-console.log(findSolution(240));
+console.log(findSolution(13));
+console.log(findSolution(83));
+console.log(findSolution(3890));
