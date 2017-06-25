@@ -12,3 +12,5 @@ function printFarmInventory(cows, chickens) {
 }
 
 printFarmInventory(7, 11);
+// 007 Cows
+// 011 Chickens
