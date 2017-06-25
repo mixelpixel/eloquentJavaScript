@@ -36,16 +36,29 @@ function prompt(question, callback) {
 // but I think it has something to do with asynchronous code execution
 // that said, I am trying to prompt the user for two inputs
 // and then use those two inputs as the base and exponent
-var firstInput = prompt('What\'s your first name? ', function (input) {
-  console.log("Your name is " + input);
-  process.exit();
-  return input;
-})
-
-var lastInput = prompt('What\'s your last name? ', function (input) {
-  console.log("Your name is " + input);
-  process.exit();
-  return input;
-})
+// var firstInput = prompt('What\'s your first name? ', function (input) {
+//   console.log("Your name is " + input);
+//   process.exit();
+//   return input;
+// })
+//
+// var lastInput = prompt('What\'s your last name? ', function (input) {
+//   console.log("Your name is " + input);
+//   process.exit();
+//   return input;
+// })
 
 // console.log(firstInput);
+
+// vvv NOPE vvv
+// var twoAsynchronousInputs = prompt('What\'s your first name? ',
+//   function (firstInput) {
+//     console.log("Your first name is " + firstInput);
+//     process.exit();
+//   }, prompt('What\'s your last name? ', function (secondInput) {
+//     console.log("Your last name is " + secondInput);
+//     process.exit();
+//   return [firstInput, secondInput];
+// }));
+//
+// // console.log(twoAsynchronousInputs);
