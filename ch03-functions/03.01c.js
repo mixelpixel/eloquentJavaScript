@@ -26,6 +26,7 @@ function prompt(question, callback) {
   });
 };
 
+// Use case
 prompt('What\'s your name? ', function (input) {
   console.log("Your name is " + input);
   process.exit();
