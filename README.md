@@ -26,6 +26,8 @@
 	- [03.05a.js](ch03-functions/03.05a.js)
 	- [03.05b.js](ch03-functions/03.05b.js)
 06. The Call Stack
+	- [03.06a.js](ch03-functions/03.06a.js)
+	- [03.06b.js](ch03-functions/03.06b.js)
 07. Optional Arguments
 08. Closure
 09. Recursion
