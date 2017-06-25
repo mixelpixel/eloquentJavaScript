@@ -37,7 +37,7 @@
 	- [03.09a.js](ch03-functions/03.09a.js)
 	- [03.09b.js](ch03-functions/03.09b.js)
 10. Growing Functions
-> "How difficult it is to find a good name for a function is a good indication of how clear a concept it is that you’re trying to wrap."
+> "How difficult it is to find a good name for a function is a good indication of how clear a concept it is that you’re trying to wrap."  
 
 	- [03.10a.js](ch03-functions/03.10a.js)
 	- [03.10b.js](ch03-functions/03.10b.js)
