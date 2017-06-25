@@ -19,6 +19,7 @@
 > "The parameters to a function behave like regular variables, but their initial values are given by the caller of the function, not the code in the function itself ... An important property of functions is that the variables created inside of them, including their parameters, are local to the function ... "
 
 03. Nested Scope
+	- [03.03.js](ch03-functions/03.03.js)
 04. Functions as Values
 05. Declaration Notation
 06. The Call Stack
