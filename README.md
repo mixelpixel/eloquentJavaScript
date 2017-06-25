@@ -43,8 +43,15 @@
 	- [03.10b.js](ch03-functions/03.10b.js)
 	- [03.10c.js](ch03-functions/03.10c.js)
 11. Functions and Side Effects
+	> Functions that create values are easier to combine in new ways than functions that directly perform side effects.
+
 12. Summary
+	> The function keyword, when used as an expression, can create a function value. When used as a statement, it can be used to declare a variable and give it a function as its value.
+
 13. Exercises
+	- [Minimum](ch03-functions/03.13minimum.js)
+	- [Recursion]()
+	- [Bean Couting]()
 
 ## [Chapter 4](http://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
 > *"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."*  
