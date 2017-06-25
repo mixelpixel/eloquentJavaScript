@@ -21,7 +21,9 @@
 03. Nested Scope
 	- [03.03.js](ch03-functions/03.03.js)
 04. Functions as Values
+	- [03.04.js](ch03-functions/03.04.js)
 05. Declaration Notation
+
 06. The Call Stack
 07. Optional Arguments
 08. Closure
