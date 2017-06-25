@@ -34,6 +34,8 @@
 	- [03.08a.js](ch03-functions/03.08a.js)
 	- [03.08b.js](ch03-functions/03.08b.js)
 09. Recursion
+	- [03.09a.js](ch03-functions/03.09a.js)
+	- [03.09b.js](ch03-functions/03.09b.js)
 10. Growing Functions
 11. Functions and Side Effects
 12. Summary
