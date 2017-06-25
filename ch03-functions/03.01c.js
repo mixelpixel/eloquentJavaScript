@@ -11,16 +11,22 @@
 
 // prompt the user for a base and an exponent
 // return the result of the base to the power of the exponent
-// NOTE: requires `npm install prompt`
-var baseInput     = prompt("please enter a number for the base of the exponential operator: ")
-var exponentInput = prompt("please enter a number for the power of the exponential operator: ")
 
-var power = function(base, exponent) {
-  var result = 1;
-  for (count = 0; count < exponent; count++) {
-    result *= base;
-  }
-  return result;
+// nodejs process to get user input
+//per: https://stackoverflow.com/a/32276364/5225057
+function prompt(question, callback) {
+  var stdin  = process.stdin,
+      stdout = process.stdout;
+
+  stdin.resume();
+  stdout.write(question);
+
+  stdin.once('data', function(data) {
+    callback(data.toString().trim());
+  });
 };
 
-console.log(Number(baseInput), Number(exponentInput));
+prompt('What\'s your name? ', function (input) {
+  console.log("Your name is " + input);
+  process.exit();
+})
