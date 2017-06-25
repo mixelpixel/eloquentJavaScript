@@ -15,6 +15,9 @@
 > "Some functions produce a value, such as power and square, and some don’t, such as makeNoise, which produces only a side effect. A return statement determines the value the function returns. When control comes across such a statement, it immediately jumps out of the current function and gives the returned value to the code that called the function. The return keyword without an expression after it will cause the function to return undefined."
 
 02. Parameters and Scopes
+	- [03.02.js](ch03-functions/03.02.js)
+> "The parameters to a function behave like regular variables, but their initial values are given by the caller of the function, not the code in the function itself ... An important property of functions is that the variables created inside of them, including their parameters, are local to the function ... "
+
 03. Nested Scope
 04. Functions as Values
 05. Declaration Notation
