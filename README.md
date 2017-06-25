@@ -8,14 +8,14 @@
 -Donald Knuth
 
 01. Defining a Function
-> "Some functions produce a value, such as power and square, and some don’t, such as makeNoise, which produces only a side effect. A return statement determines the value the function returns. When control comes across such a statement, it immediately jumps out of the current function and gives the returned value to the code that called the function. The return keyword without an expression after it will cause the function to return undefined."
+	> "Some functions produce a value, such as power and square, and some don’t, such as makeNoise, which produces only a side effect. A return statement determines the value the function returns. When control comes across such a statement, it immediately jumps out of the current function and gives the returned value to the code that called the function. The return keyword without an expression after it will cause the function to return undefined."
 
 	- [03.01a.js](ch03-functions/03.01a.js) - Squaring a number
 	- [03.01b.js](ch03-functions/03.01b.js) - Make some noise!
 	- [03.01c.js](ch03-functions/03.01c.js) - Raise a base by an exponent
 
 02. Parameters and Scopes
-> "The parameters to a function behave like regular variables, but their initial values are given by the caller of the function, not the code in the function itself ... An important property of functions is that the variables created inside of them, including their parameters, are local to the function ... "
+	> "The parameters to a function behave like regular variables, but their initial values are given by the caller of the function, not the code in the function itself ... An important property of functions is that the variables created inside of them, including their parameters, are local to the function ... "
 
 	- [03.02.js](ch03-functions/03.02.js)
 03. Nested Scope
@@ -37,7 +37,7 @@
 	- [03.09a.js](ch03-functions/03.09a.js)
 	- [03.09b.js](ch03-functions/03.09b.js)
 10. Growing Functions
-> "How difficult it is to find a good name for a function is a good indication of how clear a concept it is that you’re trying to wrap."  
+	> "How difficult it is to find a good name for a function is a good indication of how clear a concept it is that you’re trying to wrap."  
 
 	- [03.10a.js](ch03-functions/03.10a.js)
 	- [03.10b.js](ch03-functions/03.10b.js)
