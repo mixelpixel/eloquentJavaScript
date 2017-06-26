@@ -4,7 +4,7 @@
 	- Chapters 3 and 4 assigned as pre-Course homework
 
 ## [Chapter 3](http://eloquentjavascript.net/03_functions.html) - Functions
-> *"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."*  
+> *_"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."_*  
 -Donald Knuth
 
 01. Defining a Function
@@ -54,14 +54,14 @@
 	- [Bean Couting](ch03-functions/03.13recursion.js)
 
 ## [Chapter 4](http://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
-> *"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."*  
+> *_"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."_*  
 -Charles Babbage, Passages from the Life of a Philosopher (1864)  
 
 01. The Weresquirrel
 02. Data Sets
 	- [04.02.js](ch04-data-structures_objects-arrays/04.02.js)
 03. Properties
-	> When using a dot, the part after the dot must be a valid variable name, and it directly names the property. When using square brackets, the expression between the brackets is evaluated to get the property name. Whereas value.x fetches the property of value named “x”, value[x] tries to evaluate the expression x and uses the result as the property name.
+	> When using a dot, the part after the dot must be a valid variable name, and it directly names the property. When using square brackets, the expression between the brackets is _evaluated_ to get the property name. Whereas value.x fetches the property of value named “x”, value[x] tries to evaluate the expression x and uses the result as the property name.
 
 	- [04.03.js](ch04-data-structures_objects-arrays/04.03.js)
 04. Methods
@@ -80,10 +80,10 @@
 17. Exercises
 
 ## [Chapter 5](http://eloquentjavascript.net/05_higher_order.html) - Higher Order Functions
-> *"Tzu-li and Tzu-ssu were boasting about the size of their latest programs. ‘Two-hundred thousand lines,’ said Tzu-li, ‘not counting comments!’ Tzu-ssu responded, ‘Pssh, mine is almost a million lines already.’ Master Yuan-Ma said, ‘My best program has five hundred lines.’ Hearing this, Tzu-li and Tzu-ssu were enlightened."*  
+> *_"Tzu-li and Tzu-ssu were boasting about the size of their latest programs. ‘Two-hundred thousand lines,’ said Tzu-li, ‘not counting comments!’ Tzu-ssu responded, ‘Pssh, mine is almost a million lines already.’ Master Yuan-Ma said, ‘My best program has five hundred lines.’ Hearing this, Tzu-li and Tzu-ssu were enlightened."_*  
 -Master Yuan-Ma, The Book of Programming
 
-> *"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."*  
+> *_"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."_*  
 -C.A.R. Hoare, 1980 ACM Turing Award Lecture
 
 01.
