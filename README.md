@@ -59,6 +59,7 @@
 
 01. The Weresquirrel
 02. Data Sets
+	- [04.02.js](ch04-data-structures_objects-arrays/04.02.js)
 03. Properties
 04. Methods
 05. Objects
