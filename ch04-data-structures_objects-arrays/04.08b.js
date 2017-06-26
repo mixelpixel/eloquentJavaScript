@@ -1,7 +1,7 @@
 // http://eloquentjavascript.net/04_data.html#p_sM+4QT8FKs
 
 function hasEvent(event, entry) {
-  return entry.events.indexOf(event) != -1;
+  return entry.events.indexOf(event) != -1; // events is a key in JOURNAL
 }
 
 function tableFor(event, journal) {
