@@ -61,6 +61,9 @@
 02. Data Sets
 	- [04.02.js](ch04-data-structures_objects-arrays/04.02.js)
 03. Properties
+	> When using a dot, the part after the dot must be a valid variable name, and it directly names the property. When using square brackets, the expression between the brackets is evaluated to get the property name. Whereas value.x fetches the property of value named “x”, value[x] tries to evaluate the expression x and uses the result as the property name.
+
+	- [04.03.js](ch04-data-structures_objects-arrays/04.03.js)
 04. Methods
 05. Objects
 06. Mutability
