@@ -65,7 +65,12 @@
 
 	- [04.03.js](ch04-data-structures_objects-arrays/04.03.js)
 04. Methods
+	- [04.04a.js](ch04-data-structures_objects-arrays/04.04a.js)
+	- [04.04b.js](ch04-data-structures_objects-arrays/04.04b.js)
 05. Objects
+	- [04.05a.js](ch04-data-structures_objects-arrays/04.05a.js)
+	- [04.05b.js](ch04-data-structures_objects-arrays/04.05b.js)
+	- [04.05c.js](ch04-data-structures_objects-arrays/04.05c.js)
 06. Mutability
 07. The Lycanthrope's Log
 08. Computing Correlation
