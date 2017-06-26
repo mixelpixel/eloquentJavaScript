@@ -25,8 +25,7 @@ function countBs(string) {
 console.log(countBs("BBC")); // <--- 2
 
 // write a function called countChar that behaves like countBs, except it takes
-// a second argument that indicates the character that is to be counted 
-
+// a second argument that indicates the character that is to be counted
 // version 1
 function countChar(string, letter) {
   var counter = 0;
