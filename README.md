@@ -72,6 +72,9 @@
 	- [04.05b.js](ch04-data-structures_objects-arrays/04.05b.js)
 	- [04.05c.js](ch04-data-structures_objects-arrays/04.05c.js)
 06. Mutability
+> When we have two numbers, 120 and 120, we can consider them precisely the same number, whether or not they refer to the same physical bits. But with objects, there is a difference between having two references to the same object and having two different objects that contain the same properties.
+
+	- [04.06.js](ch04-data-structures_objects-arrays/04.06.js)
 07. The Lycanthrope's Log
 08. Computing Correlation
 09. Objects as Maps
