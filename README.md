@@ -50,8 +50,8 @@
 
 13. Exercises
 	- [Minimum](ch03-functions/03.13minimum.js)
-	- [Recursion]()
-	- [Bean Couting]()
+	- [Recursion](ch03-functions/03.13minimum.js)
+	- [Bean Couting](ch03-functions/03.13recursion.js)
 
 ## [Chapter 4](http://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
 > *"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."*  
