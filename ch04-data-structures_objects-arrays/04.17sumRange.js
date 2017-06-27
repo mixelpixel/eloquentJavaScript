@@ -23,7 +23,7 @@ function arraySum(anArray) {
 
 function stepRange(start, end, step) {
   // handling the case when a third argument is not given
-  // if (step === undefined)
+  // if (step === undefined) // equivalent to arguments.length
   //   step = 1;
   if (arguments.length < 3)
     step = 1;
