@@ -101,6 +101,10 @@
 	> Objects can also serve as maps, associating values with names. The in operator can be used to find out whether an object contains a property with a given name. The same keyword can also be used in a for loop (for (var name in object)) to loop over an object’s properties.
 
 17. Exercises
+- [The sum of a range](ch04-data-structures_objects-arrays/xxxx.js)
+- [Reversing an array](ch04-data-structures_objects-arrays/xxxx.js)
+- [A list](ch04-data-structures_objects-arrays/xxxx.js)
+- [Deep comparison](ch04-data-structures_objects-arrays/xxxx.js)
 
 ## [Chapter 5](http://eloquentjavascript.net/05_higher_order.html) - Higher Order Functions
 > *_"Tzu-li and Tzu-ssu were boasting about the size of their latest programs. ‘Two-hundred thousand lines,’ said Tzu-li, ‘not counting comments!’ Tzu-ssu responded, ‘Pssh, mine is almost a million lines already.’ Master Yuan-Ma said, ‘My best program has five hundred lines.’ Hearing this, Tzu-li and Tzu-ssu were enlightened."_*
