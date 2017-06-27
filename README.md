@@ -90,6 +90,7 @@
 12. Strings and their Properties
 	- [04.12.js](ch04-data-structures_objects-arrays/04.12.js)
 13. The Arguments Object
+	- [04.13.js](ch04-data-structures_objects-arrays/04.13.js)
 14. The Math Object
 15. The Global Object
 16. Summary
