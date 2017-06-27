@@ -101,7 +101,7 @@
 	> Objects can also serve as maps, associating values with names. The in operator can be used to find out whether an object contains a property with a given name. The same keyword can also be used in a for loop (for (var name in object)) to loop over an object’s properties.
 
 17. Exercises
-- [The sum of a range](ch04-data-structures_objects-arrays/xxxx.js)
+- [The sum of a range](ch04-data-structures_objects-arrays/04.17sumRange.js)
 - [Reversing an array](ch04-data-structures_objects-arrays/xxxx.js)
 - [A list](ch04-data-structures_objects-arrays/xxxx.js)
 - [Deep comparison](ch04-data-structures_objects-arrays/xxxx.js)
