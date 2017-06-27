@@ -22,7 +22,9 @@ function arraySum(anArray) {
 // console.log(arraySum(range(1, 10))); // ---> 55
 
 function stepRange(start, end, step) {
-  if (step === undefined)
+  // if (step === undefined)
+  //   step = 1;
+  if (arguments.length < 3)
     step = 1;
   stepRangeArray = new Array;
   if (step < 0) {
