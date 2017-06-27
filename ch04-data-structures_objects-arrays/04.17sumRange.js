@@ -26,6 +26,8 @@ function stepRange(start, end, step) {
   //   step = 1;
   if (arguments.length < 3)
     step = 1;
+  if ((arguments.length < 3) && (start > end))
+    step = -1;
   stepRangeArray = new Array;
   if (step < 0) {
     for (var i = start; i >= end; i += step) {
@@ -40,5 +42,6 @@ function stepRange(start, end, step) {
 
 console.log(stepRange(1, 10));      // ---> [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 console.log(stepRange(5, 2, -1));   // ---> [ 5, 4, 3, 2 ]
+console.log(stepRange(5, 2));       // ---> [ 5, 4, 3, 2 ]
 console.log(stepRange(1, 10, 2));   // ---> [ 1, 3, 5, 7, 9 ]
 // console.log(arraySum(stepRange(1, 10))); // ---> 55
