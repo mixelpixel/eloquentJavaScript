@@ -81,9 +81,14 @@
 	- [04.08a.js](ch04-data-structures_objects-arrays/04.08a.js)
 	- [04.08b.js](ch04-data-structures_objects-arrays/04.08b.js)
 09. Objects as Maps
+	- [04.09.js](ch04-data-structures_objects-arrays/04.09.js)
 10. The Final Analysis
+	- [04.10.js](ch04-data-structures_objects-arrays/04.10.js)
 11. Further Arrayology
+	- [04.11a.js](ch04-data-structures_objects-arrays/04.11a.js)
+	- [04.11b.js](ch04-data-structures_objects-arrays/04.11b.js)
 12. Strings and their Properties
+	- [04.12.js](ch04-data-structures_objects-arrays/04.12.js)
 13. The Arguments Object
 14. The Math Object
 15. The Global Object
