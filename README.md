@@ -4,7 +4,7 @@
 	- Chapters 3 and 4 assigned as pre-Course homework
 
 ## [Chapter 3](http://eloquentjavascript.net/03_functions.html) - Functions
-> *_"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."_*  
+> *_"People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones."_*
 -Donald Knuth
 
 01. Defining a Function
@@ -37,7 +37,7 @@
 	- [03.09a.js](ch03-functions/03.09a.js)
 	- [03.09b.js](ch03-functions/03.09b.js)
 10. Growing Functions
-	> "How difficult it is to find a good name for a function is a good indication of how clear a concept it is that you’re trying to wrap."  
+	> "How difficult it is to find a good name for a function is a good indication of how clear a concept it is that you’re trying to wrap."
 
 	- [03.10a.js](ch03-functions/03.10a.js)
 	- [03.10b.js](ch03-functions/03.10b.js)
@@ -54,8 +54,8 @@
 	- [Bean Couting](ch03-functions/03.13recursion.js)
 
 ## [Chapter 4](http://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
-> *_"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."_*  
--Charles Babbage, Passages from the Life of a Philosopher (1864)  
+> *_"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."_*
+-Charles Babbage, Passages from the Life of a Philosopher (1864)
 
 01. The Weresquirrel
 02. Data Sets
@@ -76,7 +76,10 @@
 
 	- [04.06.js](ch04-data-structures_objects-arrays/04.06.js)
 07. The Lycanthrope's Log
+	- [04.07.js](ch04-data-structures_objects-arrays/04.07.js)
 08. Computing Correlation
+	- [04.08a.js](ch04-data-structures_objects-arrays/04.08a.js)
+	- [04.08b.js](ch04-data-structures_objects-arrays/04.08b.js)
 09. Objects as Maps
 10. The Final Analysis
 11. Further Arrayology
@@ -88,10 +91,10 @@
 17. Exercises
 
 ## [Chapter 5](http://eloquentjavascript.net/05_higher_order.html) - Higher Order Functions
-> *_"Tzu-li and Tzu-ssu were boasting about the size of their latest programs. ‘Two-hundred thousand lines,’ said Tzu-li, ‘not counting comments!’ Tzu-ssu responded, ‘Pssh, mine is almost a million lines already.’ Master Yuan-Ma said, ‘My best program has five hundred lines.’ Hearing this, Tzu-li and Tzu-ssu were enlightened."_*  
+> *_"Tzu-li and Tzu-ssu were boasting about the size of their latest programs. ‘Two-hundred thousand lines,’ said Tzu-li, ‘not counting comments!’ Tzu-ssu responded, ‘Pssh, mine is almost a million lines already.’ Master Yuan-Ma said, ‘My best program has five hundred lines.’ Hearing this, Tzu-li and Tzu-ssu were enlightened."_*
 -Master Yuan-Ma, The Book of Programming
 
-> *_"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."_*  
+> *_"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."_*
 -C.A.R. Hoare, 1980 ACM Turing Award Lecture
 
 01.
