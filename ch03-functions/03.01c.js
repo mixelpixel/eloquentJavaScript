@@ -64,3 +64,4 @@ console.log(power(2, 10)); // <-- 1024
 // // console.log(twoAsynchronousInputs);
 
 // A later chapter covering asynchronicity: http://eloquentjavascript.net/20_node.html#h_HH3wvnWMnd
+// possible solution? http://www.splinter.com.au/reading-a-line-from-the-console-in-nodejs/
