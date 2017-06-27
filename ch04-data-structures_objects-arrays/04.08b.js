@@ -1,7 +1,7 @@
 // http://eloquentjavascript.net/04_data.html#p_sM+4QT8FKs
 
 function hasEvent(event, entry) {
-  return entry.events.indexOf(event) != -1; // events is a key in JOURNAL
+  return entry.events.indexOf(event) != -1; // events is a key in JOURNAL, same as emtry["events"].indexOf(event)
 }
 
 // e.g. tableFor("pizza", JOURNAL) where
@@ -11,7 +11,7 @@ function tableFor(event, journal) {
   for (var i = 0; i < journal.length; i++) {
     var entry = journal[i], index = 0;
     if (hasEvent(event, entry)) index +=1;
-    if (entry.squirrel) index +=2;
+    if (entry.squirrel) index +=2;  // same as (entry["squirrel"])
     table[index] +=1;
   }
   return table;
