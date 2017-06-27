@@ -92,6 +92,9 @@
 13. The Arguments Object
 	- [04.13.js](ch04-data-structures_objects-arrays/04.13.js)
 14. The Math Object
+	> Many languages will stop you, or at least warn you, when you are defining a variable with a name that is already taken. JavaScript does neither, so be careful.
+
+	- [04.14.js](ch04-data-structures_objects-arrays/04.14.js)
 15. The Global Object
 16. Summary
 17. Exercises
