@@ -1,7 +1,6 @@
 // http://eloquentjavascript.net/03_functions.html#h_jxl1p970Fy
 
 // recursively determine if a positive integer is odd or even
-
 // version 1
 // function isEven(number) {
 //   if (number === 0)

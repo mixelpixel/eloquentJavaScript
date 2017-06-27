@@ -1,7 +1,6 @@
 // http://eloquentjavascript.net/03_functions.html#h_3rsiDgC2do
 
 // count the times the capital lett 'B' appears in a string
-
 // version 1
 function countBs(string) {
   var counter = 0;

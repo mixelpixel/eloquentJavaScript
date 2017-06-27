@@ -1,7 +1,6 @@
 // http://eloquentjavascript.net/03_functions.html#h_XTmO7z7MPq
 
 // of two parameters, returns the minimum value
-
 // version 1
 // function min(x, y) {
 //   if (x < y) {
