@@ -96,7 +96,10 @@
 
 	- [04.14.js](ch04-data-structures_objects-arrays/04.14.js)
 15. The Global Object
+	- [04.15.js](ch04-data-structures_objects-arrays/04.15.js)
 16. Summary
+	> Objects can also serve as maps, associating values with names. The in operator can be used to find out whether an object contains a property with a given name. The same keyword can also be used in a for loop (for (var name in object)) to loop over an object’s properties.
+
 17. Exercises
 
 ## [Chapter 5](http://eloquentjavascript.net/05_higher_order.html) - Higher Order Functions
