@@ -4,6 +4,8 @@ function hasEvent(event, entry) {
   return entry.events.indexOf(event) != -1; // events is a key in JOURNAL
 }
 
+// e.g. tableFor("pizza", JOURNAL) where
+// JOUNAL[0] == { events: [ 'carrot', 'exercise', 'weekend' ], squirrel: false }
 function tableFor(event, journal) {
   var table = [0, 0, 0, 0];
   for (var i = 0; i < journal.length; i++) {
@@ -118,3 +120,4 @@ var JOURNAL = [
 
 
 console.log(tableFor("pizza", JOURNAL)); // ---> [76, 9, 4, 1]
+// console.log(JOURNAL[0]);
