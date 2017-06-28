@@ -102,9 +102,9 @@
 
 17. Exercises
 - [The sum of a range](ch04-data-structures_objects-arrays/04.17sumRange.js)
-- [Reversing an array](ch04-data-structures_objects-arrays/xxxx.js)
-- [A list](ch04-data-structures_objects-arrays/xxxx.js)
-- [Deep comparison](ch04-data-structures_objects-arrays/xxxx.js)
+- [Reversing an array](ch04-data-structures_objects-arrays/reverseArray.js)
+- [A list](ch04-data-structures_objects-arrays/aList.js)
+- [Deep comparison](ch04-data-structures_objects-arrays/deepComparison.js)
 
 ## [Chapter 5](http://eloquentjavascript.net/05_higher_order.html) - Higher Order Functions
 > *_"Tzu-li and Tzu-ssu were boasting about the size of their latest programs. ‘Two-hundred thousand lines,’ said Tzu-li, ‘not counting comments!’ Tzu-ssu responded, ‘Pssh, mine is almost a million lines already.’ Master Yuan-Ma said, ‘My best program has five hundred lines.’ Hearing this, Tzu-li and Tzu-ssu were enlightened."_*
