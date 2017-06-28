@@ -13,6 +13,7 @@
 	- [03.01a.js](ch03-functions/03.01a.js) - Squaring a number
 	- [03.01b.js](ch03-functions/03.01b.js) - Make some noise!
 	- [03.01c.js](ch03-functions/03.01c.js) - Raise a base by an exponent
+		- How to get multiple inputs from user?
 
 02. Parameters and Scopes
 	> "The parameters to a function behave like regular variables, but their initial values are given by the caller of the function, not the code in the function itself ... An important property of functions is that the variables created inside of them, including their parameters, are local to the function ... "
@@ -52,6 +53,7 @@
 	- [Minimum](ch03-functions/03.13minimum.js)
 	- [Recursion](ch03-functions/03.13minimum.js)
 	- [Bean Couting](ch03-functions/03.13recursion.js)
+		- Why doesn't this work with the .forEach loop? Maybe I need to split it into a proper array? Ah... yes, apparently forEach is only available with arrays? Also, "for" loops are apparently _consideraly_ faster.
 
 ## [Chapter 4](http://eloquentjavascript.net/04_data.html) - Data Structures: Objects and Arrays
 > *_"On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ [...] I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question."_*
