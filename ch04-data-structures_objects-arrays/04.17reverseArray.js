@@ -10,15 +10,15 @@
 // }
 
 // version 2
-// function reverseArray(anArray) {
-//   output = new Array;
-//   for (var i = 0; i < anArray.length; i++) {
-//     output.unshift(anArray[i]);
-//   }
-//   return output;
-// }
-//
-// console.log(reverseArray(["A", "B", "C"])); // ---> ["C", "B", "A"];
+function reverseArray(anArray) {
+  output = new Array;
+  for (var i = 0; i < anArray.length; i++) {
+    output.unshift(anArray[i]);
+  }
+  return output;
+}
+
+console.log(reverseArray(["A", "B", "C"])); // ---> ["C", "B", "A"];
 
 function reverseArrayInPlace(anArray) {
   for (var i = 0; i < Math.floor(anArray.length / 2); i++) {
